@@ -8,3 +8,4 @@ lib/rbgsl.rb
 pkg/*.gem
 .config
 InstalledFiles
+pkg
